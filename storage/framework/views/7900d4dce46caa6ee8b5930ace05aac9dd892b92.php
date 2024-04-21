@@ -1,0 +1,1 @@
+<footer id="footer" align="center" >Copyright &copy; 2022 四資管二 B10909022 李家瑜.All Rights Reserved. </footer><?php /**PATH C:\Users\a0920\OneDrive\桌面\website class\B10909022\resources\views/layouts/footer.blade.php ENDPATH**/ ?>

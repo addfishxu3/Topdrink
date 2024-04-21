@@ -1,0 +1,1 @@
+<?php /**PATH C:\Users\a0920\OneDrive\桌面\website class\B10909022\resources\views/layouts/js.blade.php ENDPATH**/ ?>
